@@ -49,7 +49,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZnenF2dGU3eDFoY3d3aXNyNTI0Zzc4b2c0cXY3OGQwa241M2F1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"  />
 </div>
 
